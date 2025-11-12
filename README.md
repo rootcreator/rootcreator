@@ -27,6 +27,16 @@ Focused on applied AI, SaaS infrastructure, and developer tooling.
 
 ---
 
+#### 🧩 Side Projects
+
+| Project                       | Description                                                        | Stack                        | Link                                              |
+| ----------------------------- | ------------------------------------------------------------------ | ---------------------------- | ------------------------------------------------- |
+| **Economic Dashboard**        | Conversational assistant for support, dispute resolution, and FAQs | Django REST                  | [https://economic-dashboard-oyk8.onrender.com/]   |
+| **Onchain Vote**              | Stellar(XLM) supported Voting system                               | Crypto, Django               | [https://vote-ised.onrender.com/]                 |
+
+---
+
+
 #### 🧰 Core Stack
 
 `Python` · `Django` · `FastAPI` · `PostgreSQL` · `Flutter` · `React` · `Tailwind`
