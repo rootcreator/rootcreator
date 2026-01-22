@@ -54,6 +54,6 @@ CTO@Pluggedspace [https://github.com/pluggedspace],[https://pluggedspace.org]
 
 * **LinkedIn:** [linkedin.com/in/rootcreator](https://linkedin.com/in/rootcreator)
 * **Twitter/X:** [@rootcreator](https://x.com/rootcreator)
-* **Email:** [rootcreator@protonmail.com](mailto:cesar@pluggedspace.org)
+* **Email:** [rootcreator](mailto:cesar@pluggedspace.org)
 
 ---
