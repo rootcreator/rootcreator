@@ -8,7 +8,9 @@ Focused on applied AI, SaaS infrastructure, and developer tooling.
 ---
 
 #### Work
+
 CTO@Pluggedspace [https://github.com/pluggedspace],[https://pluggedspace.org]
+
 ---
 
 #### ⚙️ Current Focus
