@@ -33,7 +33,7 @@ Focused on applied AI, SaaS infrastructure, and developer tooling.
 #### 🧰 Core Stack
 
 `Python` · `Django` · `FastAPI` · `PostgreSQL` · `Flutter` · `React` · `Tailwind`
-`Kong` · `Docker` · `NGINX` · `Redis` · `Machine Learning` . 'Nextjs' . 'php'
+`Kong` · `Docker` · `NGINX` · `Redis` · `Machine Learning` . `PHP` · `NextJS`
 
 ---
 
