@@ -18,19 +18,12 @@ Focused on applied AI, SaaS infrastructure, and developer tooling.
 
 #### 🧩 Active Projects
 
-| Project                       | Description                                                        | Stack                        |
-| ----------------------------- | ------------------------------------------------------------------ | ---------------------------- |
-| **Monica AI**                 | Conversational assistant for support, dispute resolution, and FAQs | Django REST, Groq API, React |
-| **Match Bot**                 | Machine learning–based football prediction system                  | Scikit-learn, Pandas, Django |
-| **Open Data** *(coming soon)* | Datasets & Models for predictive analysis                          | Django, Python, Flutter      |
-| **RootTools** *(coming soon)* | Developer productivity suite for startups                          | FastAPI, Next.js             |
-
----
-
-#### 🧩 Side Projects
-
 | Project                       | Description                                                        | Stack                        | Link                                              |
 | ----------------------------- | ------------------------------------------------------------------ | ---------------------------- | ------------------------------------------------- |
+| **Monica AI**                 | Conversational assistant for support, dispute resolution, and FAQs | Django REST, Groq API, React |
+| **Match Bot**                 | Machine learning–based football prediction system                  | Scikit-learn, Pandas, Django | [https://github.com/pluggedspace/match]           |
+| **Open Data** *(coming soon)* | Datasets & Models for predictive analysis                          | Django, Python, Flutter      |
+| **RootTools**                 | Developer productivity suite for tools and scripts                 | FastAPI, Next.js, etc        |
 | **Economic Dashboard**        | Conversational assistant for support, dispute resolution, and FAQs | Django REST                  | [https://economic-dashboard-oyk8.onrender.com/]   |
 | **Onchain Vote**              | Stellar(XLM) supported Voting system                               | Crypto, Django               | [https://vote-ised.onrender.com/]                 |
 
@@ -40,7 +33,7 @@ Focused on applied AI, SaaS infrastructure, and developer tooling.
 #### 🧰 Core Stack
 
 `Python` · `Django` · `FastAPI` · `PostgreSQL` · `Flutter` · `React` · `Tailwind`
-`Kong` · `Docker` · `NGINX` · `Redis` · `Machine Learning`
+`Kong` · `Docker` · `NGINX` · `Redis` · `Machine Learning` . 'Nextjs' . 'php'
 
 ---
 
