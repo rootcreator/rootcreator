@@ -51,7 +51,7 @@ I build systems that think, connect, and scale. My work focuses on bridging the 
 
 #### 📚 Philosophy & Research
 > "Build systems that outlive you."
-> Currently researching post-graduate opportunities in Italy (2027) focused on the intersection of AI and Global Systems.
+> Currently researching Machine Learning and Agentic operations focused on Global Systems.
 
 ---
 
