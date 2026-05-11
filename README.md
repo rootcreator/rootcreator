@@ -1,59 +1,61 @@
-### 🧠 **rootcreator**
+### 🧠 rootcreator | Marcelinus Apakhade
 
-Engineer • Developer • Founder • Poet
+**CTO & Founder @ Pluggedspace**  
+*Architecting Operational AI • Building R&D Ecosystems • Scaling Truth in Data*
 
-I build systems that think, connect, and scale.
-Focused on applied AI, SaaS infrastructure, and developer tooling.
-
----
-
-#### Work
-
-CTO@Pluggedspace [https://github.com/pluggedspace],[https://pluggedspace.org]
+I build systems that think, connect, and scale. My work focuses on bridging the gap between raw machine learning and executive-level decision support. Currently lead the engineering efforts at **Pluggedspace**, an R&D ecosystem dedicated to productized digital services and intelligent automation.
 
 ---
 
-#### ⚙️ Current Focus
+#### 🚀 The Pluggedspace Ecosystem
+*Founding and scaling the infrastructure that powers modern AI workflows.*
 
-* Building **productized digital services** — “Startup in a Box” kits, Mini SaaS tools, Client Portals
-* Architecting unified **AI backends** with Django + FastAPI + Kong
-* Frontends in **Flutter** and **React (Next.js)** for cross-platform products
-* Experimenting with **machine learning pipelines** for sports analytics and intelligent automation
-
----
-
-#### 🧩 Active Projects
-
-| Project                       | Description                                                        | Stack                        | Link                                              |
-| ----------------------------- | ------------------------------------------------------------------ | ---------------------------- | ------------------------------------------------- |
-| **Monica AI**                 | Conversational assistant for support, dispute resolution, and FAQs | Django REST, Groq API, React |
-| **Match Bot**                 | Machine learning–based football prediction system                  | Scikit-learn, Pandas, Django | [https://github.com/pluggedspace/match]           |
-| **Open Data** *(coming soon)* | Datasets & Models for predictive analysis                          | Django, Python, Flutter      |
-| **RootTools**                 | Developer productivity suite for tools and scripts                 | FastAPI, Next.js, etc        |
-| **Economic Dashboard**        | Conversational assistant for support, dispute resolution, and FAQs | Django REST                  | [https://economic-dashboard-oyk8.onrender.com/]   |
-| **Onchain Vote**              | Stellar(XLM) supported Voting system                               | Crypto, Django               | [https://vote-ised.onrender.com/]                 |
+*   **Akili Engine:** My flagship "Audit Engine" and predictive workbench for ML inference.
+*   **The Weave:** Unified infrastructure for cross-platform SaaS and developer tooling.
+*   **Pluggedspace Academy:** Training the next generation of leaders on AI implementation.
 
 ---
 
+#### ⚙️ Current Technical Focus
 
-#### 🧰 Core Stack
-
-`Python` · `Django` · `FastAPI` · `PostgreSQL` · `Flutter` · `React` · `Tailwind`
-`Kong` · `Docker` · `NGINX` · `Redis` · `Machine Learning` . `PHP` · `NextJS`
+*   **Operational AI:** Deploying robust ML pipelines (SVM, Random Forest, Hist Gradient Boosting) for predictive analytics.
+*   **Systems Architecture:** High-performance environments utilizing **Ubuntu 26.04** and high-spec Dell Precision workstations.
+*   **Unified Backends:** Scalable API Gateways using **Kong + FastAPI + Django**.
+*   **Productized Services:** Delivering "Startup in a Box" kits and automated client portals.
 
 ---
 
-#### 📚 Philosophy
+#### 🧩 Featured Projects
 
-> “Build systems that outlive you.”
-> I design for maintainability, modularity, and truth in data.
+| Project | Description | Role/Focus |
+| :--- | :--- | :--- |
+| **Akili / Audit Engine** | Operational AI for predictive analysis and decision support. | Lead Architect |
+| **Monica AI** | Conversational agent for dispute resolution and FAQs. | NLP & Integration |
+| **Match Bot** | ML-based sports analytics & football prediction system. | Data Engineering |
+| **Onchain Vote** | Stellar (XLM) powered transparent voting systems. | Blockchain/Web3 |
+
+---
+
+#### 🧰 The Master Stack
+
+**Languages & Frameworks**
+`Python (Expert)` · `Django` · `FastAPI` · `Flutter` · `React/Next.js` · `Tailwind` · `PHP`
+
+**AI & Data Science**
+`Scikit-learn` · `Pandas` · `Predictive Pipelines` · `Operational AI`
+
+**Infrastructure**
+`Linux (Ubuntu)` · `Docker` · `Kong API Gateway` · `PostgreSQL` · `Redis` · `NGINX`
+
+---
+
+#### 📚 Philosophy & Research
+> "Build systems that outlive you."
+> Currently researching post-graduate opportunities in Italy (2027) focused on the intersection of AI and Global Systems.
 
 ---
 
 #### 📫 Connect
-
-* **LinkedIn:** [linkedin.com/in/rootcreator](https://linkedin.com/in/rootcreator)
-* **Twitter/X:** [@rootcreator](https://x.com/rootcreator)
-* **Email:** [rootcreator](mailto:cesar@pluggedspace.org)
-
----
+*   **LinkedIn:** [linkedin.com/in/rootcreator](https://linkedin.com/in/rootcreator)
+*   **Website:** [pluggedspace.org](https://pluggedspace.org)
+*   **Email:** [cesar@pluggedspace.org](mailto:cesar@pluggedspace.org)
